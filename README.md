@@ -1,2 +1,2 @@
 # golang-blockchain
-Blockchain implementation in Golang
+Blockchain implementation in Golang using Proof of Work consensus algorithm.
