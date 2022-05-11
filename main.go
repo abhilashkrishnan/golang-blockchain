@@ -15,7 +15,7 @@ type CommandLine struct {
 
 func (cli *CommandLine) printUsage() {
 	fmt.Println("Usage: ")
-	fmt.Println(" add -block BLOCK_DATA - add a blokc to the chain")
+	fmt.Println(" add -block BLOCK_DATA - add a block to the chain")
 	fmt.Println(" print - Prints the blocks in the chain")
 }
 
